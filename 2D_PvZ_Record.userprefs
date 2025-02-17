@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\玩家角色控制器.cs">
+    <Files>
+      <File FileName="Assets\script\遊戲管理員.cs" Line="29" Column="5" />
+      <File FileName="Assets\script\玩家角色控制器.cs" Line="42" Column="4" />
+      <File FileName="Assets\script\手裡劍.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\佈署.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\敵人的動作.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\氣功飛.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

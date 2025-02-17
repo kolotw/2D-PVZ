@@ -1,0 +1,5301 @@
+fileFormatVersion: 2
+guid: 9b1e61bf062673f4eb7886c4569db5a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SNES - Super Street Fighter 2 - Ken_0
+  - first:
+      213: 21300002
+    second: SNES - Super Street Fighter 2 - Ken_1
+  - first:
+      213: 21300004
+    second: SNES - Super Street Fighter 2 - Ken_2
+  - first:
+      213: 21300006
+    second: SNES - Super Street Fighter 2 - Ken_3
+  - first:
+      213: 21300008
+    second: SNES - Super Street Fighter 2 - Ken_4
+  - first:
+      213: 21300010
+    second: SNES - Super Street Fighter 2 - Ken_5
+  - first:
+      213: 21300012
+    second: SNES - Super Street Fighter 2 - Ken_6
+  - first:
+      213: 21300014
+    second: SNES - Super Street Fighter 2 - Ken_7
+  - first:
+      213: 21300016
+    second: SNES - Super Street Fighter 2 - Ken_8
+  - first:
+      213: 21300018
+    second: SNES - Super Street Fighter 2 - Ken_9
+  - first:
+      213: 21300020
+    second: SNES - Super Street Fighter 2 - Ken_10
+  - first:
+      213: 21300022
+    second: SNES - Super Street Fighter 2 - Ken_11
+  - first:
+      213: 21300024
+    second: SNES - Super Street Fighter 2 - Ken_12
+  - first:
+      213: 21300026
+    second: SNES - Super Street Fighter 2 - Ken_13
+  - first:
+      213: 21300028
+    second: SNES - Super Street Fighter 2 - Ken_14
+  - first:
+      213: 21300030
+    second: SNES - Super Street Fighter 2 - Ken_15
+  - first:
+      213: 21300032
+    second: SNES - Super Street Fighter 2 - Ken_16
+  - first:
+      213: 21300034
+    second: SNES - Super Street Fighter 2 - Ken_17
+  - first:
+      213: 21300036
+    second: SNES - Super Street Fighter 2 - Ken_18
+  - first:
+      213: 21300038
+    second: SNES - Super Street Fighter 2 - Ken_19
+  - first:
+      213: 21300040
+    second: SNES - Super Street Fighter 2 - Ken_20
+  - first:
+      213: 21300042
+    second: SNES - Super Street Fighter 2 - Ken_21
+  - first:
+      213: 21300044
+    second: SNES - Super Street Fighter 2 - Ken_22
+  - first:
+      213: 21300046
+    second: SNES - Super Street Fighter 2 - Ken_23
+  - first:
+      213: 21300048
+    second: SNES - Super Street Fighter 2 - Ken_24
+  - first:
+      213: 21300050
+    second: SNES - Super Street Fighter 2 - Ken_25
+  - first:
+      213: 21300052
+    second: SNES - Super Street Fighter 2 - Ken_26
+  - first:
+      213: 21300054
+    second: SNES - Super Street Fighter 2 - Ken_27
+  - first:
+      213: 21300056
+    second: SNES - Super Street Fighter 2 - Ken_28
+  - first:
+      213: 21300058
+    second: SNES - Super Street Fighter 2 - Ken_29
+  - first:
+      213: 21300060
+    second: SNES - Super Street Fighter 2 - Ken_30
+  - first:
+      213: 21300062
+    second: SNES - Super Street Fighter 2 - Ken_31
+  - first:
+      213: 21300064
+    second: SNES - Super Street Fighter 2 - Ken_32
+  - first:
+      213: 21300066
+    second: SNES - Super Street Fighter 2 - Ken_33
+  - first:
+      213: 21300068
+    second: SNES - Super Street Fighter 2 - Ken_34
+  - first:
+      213: 21300070
+    second: SNES - Super Street Fighter 2 - Ken_35
+  - first:
+      213: 21300072
+    second: SNES - Super Street Fighter 2 - Ken_36
+  - first:
+      213: 21300074
+    second: SNES - Super Street Fighter 2 - Ken_37
+  - first:
+      213: 21300076
+    second: SNES - Super Street Fighter 2 - Ken_38
+  - first:
+      213: 21300078
+    second: SNES - Super Street Fighter 2 - Ken_39
+  - first:
+      213: 21300080
+    second: SNES - Super Street Fighter 2 - Ken_40
+  - first:
+      213: 21300082
+    second: SNES - Super Street Fighter 2 - Ken_41
+  - first:
+      213: 21300084
+    second: SNES - Super Street Fighter 2 - Ken_42
+  - first:
+      213: 21300086
+    second: SNES - Super Street Fighter 2 - Ken_43
+  - first:
+      213: 21300088
+    second: SNES - Super Street Fighter 2 - Ken_44
+  - first:
+      213: 21300090
+    second: SNES - Super Street Fighter 2 - Ken_45
+  - first:
+      213: 21300092
+    second: SNES - Super Street Fighter 2 - Ken_46
+  - first:
+      213: 21300094
+    second: SNES - Super Street Fighter 2 - Ken_47
+  - first:
+      213: 21300096
+    second: SNES - Super Street Fighter 2 - Ken_48
+  - first:
+      213: 21300098
+    second: SNES - Super Street Fighter 2 - Ken_49
+  - first:
+      213: 21300100
+    second: SNES - Super Street Fighter 2 - Ken_50
+  - first:
+      213: 21300102
+    second: SNES - Super Street Fighter 2 - Ken_51
+  - first:
+      213: 21300104
+    second: SNES - Super Street Fighter 2 - Ken_52
+  - first:
+      213: 21300106
+    second: SNES - Super Street Fighter 2 - Ken_53
+  - first:
+      213: 21300108
+    second: SNES - Super Street Fighter 2 - Ken_54
+  - first:
+      213: 21300110
+    second: SNES - Super Street Fighter 2 - Ken_55
+  - first:
+      213: 21300112
+    second: SNES - Super Street Fighter 2 - Ken_56
+  - first:
+      213: 21300114
+    second: SNES - Super Street Fighter 2 - Ken_57
+  - first:
+      213: 21300116
+    second: SNES - Super Street Fighter 2 - Ken_58
+  - first:
+      213: 21300118
+    second: SNES - Super Street Fighter 2 - Ken_59
+  - first:
+      213: 21300120
+    second: SNES - Super Street Fighter 2 - Ken_60
+  - first:
+      213: 21300122
+    second: SNES - Super Street Fighter 2 - Ken_61
+  - first:
+      213: 21300124
+    second: SNES - Super Street Fighter 2 - Ken_62
+  - first:
+      213: 21300126
+    second: SNES - Super Street Fighter 2 - Ken_63
+  - first:
+      213: 21300128
+    second: SNES - Super Street Fighter 2 - Ken_64
+  - first:
+      213: 21300130
+    second: SNES - Super Street Fighter 2 - Ken_65
+  - first:
+      213: 21300132
+    second: SNES - Super Street Fighter 2 - Ken_66
+  - first:
+      213: 21300134
+    second: SNES - Super Street Fighter 2 - Ken_67
+  - first:
+      213: 21300136
+    second: SNES - Super Street Fighter 2 - Ken_68
+  - first:
+      213: 21300138
+    second: SNES - Super Street Fighter 2 - Ken_69
+  - first:
+      213: 21300140
+    second: SNES - Super Street Fighter 2 - Ken_70
+  - first:
+      213: 21300142
+    second: SNES - Super Street Fighter 2 - Ken_71
+  - first:
+      213: 21300144
+    second: SNES - Super Street Fighter 2 - Ken_72
+  - first:
+      213: 21300146
+    second: SNES - Super Street Fighter 2 - Ken_73
+  - first:
+      213: 21300148
+    second: SNES - Super Street Fighter 2 - Ken_74
+  - first:
+      213: 21300150
+    second: SNES - Super Street Fighter 2 - Ken_75
+  - first:
+      213: 21300152
+    second: SNES - Super Street Fighter 2 - Ken_76
+  - first:
+      213: 21300154
+    second: SNES - Super Street Fighter 2 - Ken_77
+  - first:
+      213: 21300156
+    second: SNES - Super Street Fighter 2 - Ken_78
+  - first:
+      213: 21300158
+    second: SNES - Super Street Fighter 2 - Ken_79
+  - first:
+      213: 21300160
+    second: SNES - Super Street Fighter 2 - Ken_80
+  - first:
+      213: 21300162
+    second: SNES - Super Street Fighter 2 - Ken_81
+  - first:
+      213: 21300164
+    second: SNES - Super Street Fighter 2 - Ken_82
+  - first:
+      213: 21300166
+    second: SNES - Super Street Fighter 2 - Ken_83
+  - first:
+      213: 21300168
+    second: SNES - Super Street Fighter 2 - Ken_84
+  - first:
+      213: 21300170
+    second: SNES - Super Street Fighter 2 - Ken_85
+  - first:
+      213: 21300172
+    second: SNES - Super Street Fighter 2 - Ken_86
+  - first:
+      213: 21300174
+    second: SNES - Super Street Fighter 2 - Ken_87
+  - first:
+      213: 21300176
+    second: SNES - Super Street Fighter 2 - Ken_88
+  - first:
+      213: 21300178
+    second: SNES - Super Street Fighter 2 - Ken_89
+  - first:
+      213: 21300180
+    second: SNES - Super Street Fighter 2 - Ken_90
+  - first:
+      213: 21300182
+    second: SNES - Super Street Fighter 2 - Ken_91
+  - first:
+      213: 21300184
+    second: SNES - Super Street Fighter 2 - Ken_92
+  - first:
+      213: 21300186
+    second: SNES - Super Street Fighter 2 - Ken_93
+  - first:
+      213: 21300188
+    second: SNES - Super Street Fighter 2 - Ken_94
+  - first:
+      213: 21300190
+    second: SNES - Super Street Fighter 2 - Ken_95
+  - first:
+      213: 21300192
+    second: SNES - Super Street Fighter 2 - Ken_96
+  - first:
+      213: 21300194
+    second: SNES - Super Street Fighter 2 - Ken_97
+  - first:
+      213: 21300196
+    second: SNES - Super Street Fighter 2 - Ken_98
+  - first:
+      213: 21300198
+    second: SNES - Super Street Fighter 2 - Ken_99
+  - first:
+      213: 21300200
+    second: SNES - Super Street Fighter 2 - Ken_100
+  - first:
+      213: 21300202
+    second: SNES - Super Street Fighter 2 - Ken_101
+  - first:
+      213: 21300204
+    second: SNES - Super Street Fighter 2 - Ken_102
+  - first:
+      213: 21300206
+    second: SNES - Super Street Fighter 2 - Ken_103
+  - first:
+      213: 21300208
+    second: SNES - Super Street Fighter 2 - Ken_104
+  - first:
+      213: 21300210
+    second: SNES - Super Street Fighter 2 - Ken_105
+  - first:
+      213: 21300212
+    second: SNES - Super Street Fighter 2 - Ken_106
+  - first:
+      213: 21300214
+    second: SNES - Super Street Fighter 2 - Ken_107
+  - first:
+      213: 21300216
+    second: SNES - Super Street Fighter 2 - Ken_108
+  - first:
+      213: 21300218
+    second: SNES - Super Street Fighter 2 - Ken_109
+  - first:
+      213: 21300220
+    second: SNES - Super Street Fighter 2 - Ken_110
+  - first:
+      213: 21300222
+    second: SNES - Super Street Fighter 2 - Ken_111
+  - first:
+      213: 21300224
+    second: SNES - Super Street Fighter 2 - Ken_112
+  - first:
+      213: 21300226
+    second: SNES - Super Street Fighter 2 - Ken_113
+  - first:
+      213: 21300228
+    second: SNES - Super Street Fighter 2 - Ken_114
+  - first:
+      213: 21300230
+    second: SNES - Super Street Fighter 2 - Ken_115
+  - first:
+      213: 21300232
+    second: SNES - Super Street Fighter 2 - Ken_116
+  - first:
+      213: 21300234
+    second: SNES - Super Street Fighter 2 - Ken_117
+  - first:
+      213: 21300236
+    second: SNES - Super Street Fighter 2 - Ken_118
+  - first:
+      213: 21300238
+    second: SNES - Super Street Fighter 2 - Ken_119
+  - first:
+      213: 21300240
+    second: SNES - Super Street Fighter 2 - Ken_120
+  - first:
+      213: 21300242
+    second: SNES - Super Street Fighter 2 - Ken_121
+  - first:
+      213: 21300244
+    second: SNES - Super Street Fighter 2 - Ken_122
+  - first:
+      213: 21300246
+    second: SNES - Super Street Fighter 2 - Ken_123
+  - first:
+      213: 21300248
+    second: SNES - Super Street Fighter 2 - Ken_124
+  - first:
+      213: 21300250
+    second: SNES - Super Street Fighter 2 - Ken_125
+  - first:
+      213: 21300252
+    second: SNES - Super Street Fighter 2 - Ken_126
+  - first:
+      213: 21300254
+    second: SNES - Super Street Fighter 2 - Ken_127
+  - first:
+      213: 21300256
+    second: SNES - Super Street Fighter 2 - Ken_128
+  - first:
+      213: 21300258
+    second: SNES - Super Street Fighter 2 - Ken_129
+  - first:
+      213: 21300260
+    second: SNES - Super Street Fighter 2 - Ken_130
+  - first:
+      213: 21300262
+    second: SNES - Super Street Fighter 2 - Ken_131
+  - first:
+      213: 21300264
+    second: SNES - Super Street Fighter 2 - Ken_132
+  - first:
+      213: 21300266
+    second: SNES - Super Street Fighter 2 - Ken_133
+  - first:
+      213: 21300268
+    second: SNES - Super Street Fighter 2 - Ken_134
+  - first:
+      213: 21300270
+    second: SNES - Super Street Fighter 2 - Ken_135
+  - first:
+      213: 21300272
+    second: SNES - Super Street Fighter 2 - Ken_136
+  - first:
+      213: 21300274
+    second: SNES - Super Street Fighter 2 - Ken_137
+  - first:
+      213: 21300276
+    second: SNES - Super Street Fighter 2 - Ken_138
+  - first:
+      213: 21300278
+    second: SNES - Super Street Fighter 2 - Ken_139
+  - first:
+      213: 21300280
+    second: SNES - Super Street Fighter 2 - Ken_140
+  - first:
+      213: 21300282
+    second: SNES - Super Street Fighter 2 - Ken_141
+  - first:
+      213: 21300284
+    second: SNES - Super Street Fighter 2 - Ken_142
+  - first:
+      213: 21300286
+    second: SNES - Super Street Fighter 2 - Ken_143
+  - first:
+      213: 21300288
+    second: SNES - Super Street Fighter 2 - Ken_144
+  - first:
+      213: 21300290
+    second: SNES - Super Street Fighter 2 - Ken_145
+  - first:
+      213: 21300292
+    second: SNES - Super Street Fighter 2 - Ken_146
+  - first:
+      213: 21300294
+    second: SNES - Super Street Fighter 2 - Ken_147
+  - first:
+      213: 21300296
+    second: SNES - Super Street Fighter 2 - Ken_148
+  - first:
+      213: 21300298
+    second: SNES - Super Street Fighter 2 - Ken_149
+  - first:
+      213: 21300300
+    second: SNES - Super Street Fighter 2 - Ken_150
+  - first:
+      213: 21300302
+    second: SNES - Super Street Fighter 2 - Ken_151
+  - first:
+      213: 21300304
+    second: SNES - Super Street Fighter 2 - Ken_152
+  - first:
+      213: 21300306
+    second: SNES - Super Street Fighter 2 - Ken_153
+  - first:
+      213: 21300308
+    second: SNES - Super Street Fighter 2 - Ken_154
+  - first:
+      213: 21300310
+    second: SNES - Super Street Fighter 2 - Ken_155
+  - first:
+      213: 21300312
+    second: SNES - Super Street Fighter 2 - Ken_156
+  - first:
+      213: 21300314
+    second: SNES - Super Street Fighter 2 - Ken_157
+  - first:
+      213: 21300316
+    second: SNES - Super Street Fighter 2 - Ken_158
+  - first:
+      213: 21300318
+    second: SNES - Super Street Fighter 2 - Ken_159
+  - first:
+      213: 21300320
+    second: SNES - Super Street Fighter 2 - Ken_160
+  - first:
+      213: 21300322
+    second: SNES - Super Street Fighter 2 - Ken_161
+  - first:
+      213: 21300324
+    second: SNES - Super Street Fighter 2 - Ken_162
+  - first:
+      213: 21300326
+    second: SNES - Super Street Fighter 2 - Ken_163
+  - first:
+      213: 21300328
+    second: SNES - Super Street Fighter 2 - Ken_164
+  - first:
+      213: 21300330
+    second: SNES - Super Street Fighter 2 - Ken_165
+  - first:
+      213: 21300332
+    second: SNES - Super Street Fighter 2 - Ken_166
+  - first:
+      213: 21300334
+    second: SNES - Super Street Fighter 2 - Ken_167
+  - first:
+      213: 21300336
+    second: SNES - Super Street Fighter 2 - Ken_168
+  - first:
+      213: 21300338
+    second: SNES - Super Street Fighter 2 - Ken_169
+  - first:
+      213: 21300340
+    second: SNES - Super Street Fighter 2 - Ken_170
+  - first:
+      213: 21300342
+    second: SNES - Super Street Fighter 2 - Ken_171
+  - first:
+      213: 21300344
+    second: SNES - Super Street Fighter 2 - Ken_172
+  - first:
+      213: 21300346
+    second: SNES - Super Street Fighter 2 - Ken_173
+  - first:
+      213: 21300348
+    second: SNES - Super Street Fighter 2 - Ken_174
+  - first:
+      213: 21300350
+    second: SNES - Super Street Fighter 2 - Ken_175
+  - first:
+      213: 21300352
+    second: SNES - Super Street Fighter 2 - Ken_176
+  - first:
+      213: 21300354
+    second: SNES - Super Street Fighter 2 - Ken_177
+  - first:
+      213: 21300356
+    second: SNES - Super Street Fighter 2 - Ken_178
+  - first:
+      213: 21300358
+    second: SNES - Super Street Fighter 2 - Ken_179
+  - first:
+      213: 21300360
+    second: SNES - Super Street Fighter 2 - Ken_180
+  - first:
+      213: 21300362
+    second: SNES - Super Street Fighter 2 - Ken_181
+  - first:
+      213: 21300364
+    second: SNES - Super Street Fighter 2 - Ken_182
+  - first:
+      213: 21300366
+    second: SNES - Super Street Fighter 2 - Ken_183
+  - first:
+      213: 21300368
+    second: SNES - Super Street Fighter 2 - Ken_184
+  - first:
+      213: 21300370
+    second: SNES - Super Street Fighter 2 - Ken_185
+  - first:
+      213: 21300372
+    second: SNES - Super Street Fighter 2 - Ken_186
+  - first:
+      213: 21300374
+    second: SNES - Super Street Fighter 2 - Ken_187
+  - first:
+      213: 21300376
+    second: SNES - Super Street Fighter 2 - Ken_188
+  - first:
+      213: 21300378
+    second: SNES - Super Street Fighter 2 - Ken_189
+  - first:
+      213: 21300380
+    second: SNES - Super Street Fighter 2 - Ken_190
+  - first:
+      213: 21300382
+    second: SNES - Super Street Fighter 2 - Ken_191
+  - first:
+      213: 21300384
+    second: SNES - Super Street Fighter 2 - Ken_192
+  - first:
+      213: 21300386
+    second: SNES - Super Street Fighter 2 - Ken_193
+  - first:
+      213: 21300388
+    second: SNES - Super Street Fighter 2 - Ken_194
+  - first:
+      213: 21300390
+    second: SNES - Super Street Fighter 2 - Ken_195
+  - first:
+      213: 21300392
+    second: SNES - Super Street Fighter 2 - Ken_196
+  - first:
+      213: 21300394
+    second: SNES - Super Street Fighter 2 - Ken_197
+  - first:
+      213: 21300396
+    second: SNES - Super Street Fighter 2 - Ken_198
+  - first:
+      213: 21300398
+    second: SNES - Super Street Fighter 2 - Ken_199
+  - first:
+      213: 21300400
+    second: SNES - Super Street Fighter 2 - Ken_200
+  - first:
+      213: 21300402
+    second: SNES - Super Street Fighter 2 - Ken_201
+  - first:
+      213: 21300404
+    second: SNES - Super Street Fighter 2 - Ken_202
+  - first:
+      213: 21300406
+    second: SNES - Super Street Fighter 2 - Ken_203
+  - first:
+      213: 21300408
+    second: SNES - Super Street Fighter 2 - Ken_204
+  - first:
+      213: 21300410
+    second: SNES - Super Street Fighter 2 - Ken_205
+  - first:
+      213: 21300412
+    second: SNES - Super Street Fighter 2 - Ken_206
+  - first:
+      213: 21300414
+    second: SNES - Super Street Fighter 2 - Ken_207
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 893
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 893
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 893
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 893
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 893
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 893
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 893
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 893
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 893
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 893
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 893
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 897
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 906
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 897
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 893
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_15
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 893
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 893
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 893
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_18
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 915
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_19
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 901
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 917
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 893
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_22
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 893
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_23
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 893
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_24
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 893
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_25
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 893
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_26
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 893
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 777
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 777
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 777
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 777
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 777
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 777
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 777
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_41
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 777
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_42
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 777
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_43
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 777
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_44
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_45
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 777
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_46
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 777
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_47
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 777
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_48
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 777
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_49
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 777
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 646
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 646
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 646
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 646
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_54
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 646
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 646
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_56
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 646
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 646
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 646
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_59
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 646
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_60
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 646
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_61
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 646
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_62
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 646
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_63
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 646
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_64
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 646
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_65
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 646
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_66
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 646
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_67
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 646
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_68
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 646
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_69
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 646
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_70
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 646
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 518
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 518
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 518
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 518
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_75
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 518
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_76
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 518
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_77
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 518
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_78
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 518
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_79
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 518
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_80
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 518
+        width: 44
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_81
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 518
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_82
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 518
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_83
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 518
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_84
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 518
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_85
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 518
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_86
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 518
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_87
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 518
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_88
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 518
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_89
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 518
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_90
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 518
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_91
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 518
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_92
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 518
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_93
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 518
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 378
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_95
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 385
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_96
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 378
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 378
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_98
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 385
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_99
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 378
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_100
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 378
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 378
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_102
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 378
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 385
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_104
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 378
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_105
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 384
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_106
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 378
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_107
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 378
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_108
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 378
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_109
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 378
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_110
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_111
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 417
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_112
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 420
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_113
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_114
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 420
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_115
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 418
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_116
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 417
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_117
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 378
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_118
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 416
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_119
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 411
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_120
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 413
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_121
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 416
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_122
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 415
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_123
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 408
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_124
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 378
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_125
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 378
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_126
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 378
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_127
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 378
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_128
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 378
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_129
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 378
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_130
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 378
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_131
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 378
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_132
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 250
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_133
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 250
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_134
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 250
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_135
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 250
+        width: 38
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 250
+        width: 31
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_137
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 250
+        width: 28
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 250
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 250
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_140
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 250
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_141
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 250
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_142
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 250
+        width: 38
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_143
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 250
+        width: 28
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_144
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 250
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 293
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_146
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 250
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_147
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 250
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_148
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 250
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_149
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 250
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_150
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 250
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_151
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 250
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_152
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 250
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_153
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 250
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_154
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 250
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_155
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 258
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_156
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 250
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_157
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 250
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_158
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 250
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_159
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 250
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_160
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 250
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_161
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 250
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_162
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_163
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 132
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_164
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 132
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 132
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_166
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 132
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_167
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 132
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_168
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 132
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_169
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 132
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_170
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 132
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_171
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 137
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_172
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 137
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_173
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 143
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_174
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 132
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_175
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 132
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_176
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 132
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_177
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 142
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_178
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 159
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_179
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 132
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_180
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 132
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_181
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 132
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_182
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 128
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_183
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 137
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_184
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 132
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_185
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 137
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_186
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 132
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_188
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 132
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_189
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 132
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_190
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_191
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_192
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_193
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 6
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_194
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 6
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_195
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_196
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 6
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_197
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 6
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_198
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_199
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_200
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_201
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 6
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_202
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 6
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_203
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 6
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_204
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 6
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_205
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 6
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_206
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 6
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Ken_207
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 31
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Street Fighter 2 - Ken_139: 21300278
+      SNES - Super Street Fighter 2 - Ken_157: 21300314
+      SNES - Super Street Fighter 2 - Ken_61: 21300122
+      SNES - Super Street Fighter 2 - Ken_21: 21300042
+      SNES - Super Street Fighter 2 - Ken_3: 21300006
+      SNES - Super Street Fighter 2 - Ken_125: 21300250
+      SNES - Super Street Fighter 2 - Ken_99: 21300198
+      SNES - Super Street Fighter 2 - Ken_98: 21300196
+      SNES - Super Street Fighter 2 - Ken_196: 21300392
+      SNES - Super Street Fighter 2 - Ken_129: 21300258
+      SNES - Super Street Fighter 2 - Ken_75: 21300150
+      SNES - Super Street Fighter 2 - Ken_37: 21300074
+      SNES - Super Street Fighter 2 - Ken_59: 21300118
+      SNES - Super Street Fighter 2 - Ken_114: 21300228
+      SNES - Super Street Fighter 2 - Ken_123: 21300246
+      SNES - Super Street Fighter 2 - Ken_109: 21300218
+      SNES - Super Street Fighter 2 - Ken_104: 21300208
+      SNES - Super Street Fighter 2 - Ken_179: 21300358
+      SNES - Super Street Fighter 2 - Ken_94: 21300188
+      SNES - Super Street Fighter 2 - Ken_71: 21300142
+      SNES - Super Street Fighter 2 - Ken_163: 21300326
+      SNES - Super Street Fighter 2 - Ken_130: 21300260
+      SNES - Super Street Fighter 2 - Ken_49: 21300098
+      SNES - Super Street Fighter 2 - Ken_193: 21300386
+      SNES - Super Street Fighter 2 - Ken_89: 21300178
+      SNES - Super Street Fighter 2 - Ken_10: 21300020
+      SNES - Super Street Fighter 2 - Ken_29: 21300058
+      SNES - Super Street Fighter 2 - Ken_5: 21300010
+      SNES - Super Street Fighter 2 - Ken_15: 21300030
+      SNES - Super Street Fighter 2 - Ken_73: 21300146
+      SNES - Super Street Fighter 2 - Ken_145: 21300290
+      SNES - Super Street Fighter 2 - Ken_42: 21300084
+      SNES - Super Street Fighter 2 - Ken_74: 21300148
+      SNES - Super Street Fighter 2 - Ken_150: 21300300
+      SNES - Super Street Fighter 2 - Ken_17: 21300034
+      SNES - Super Street Fighter 2 - Ken_124: 21300248
+      SNES - Super Street Fighter 2 - Ken_85: 21300170
+      SNES - Super Street Fighter 2 - Ken_172: 21300344
+      SNES - Super Street Fighter 2 - Ken_88: 21300176
+      SNES - Super Street Fighter 2 - Ken_18: 21300036
+      SNES - Super Street Fighter 2 - Ken_185: 21300370
+      SNES - Super Street Fighter 2 - Ken_115: 21300230
+      SNES - Super Street Fighter 2 - Ken_23: 21300046
+      SNES - Super Street Fighter 2 - Ken_142: 21300284
+      SNES - Super Street Fighter 2 - Ken_76: 21300152
+      SNES - Super Street Fighter 2 - Ken_83: 21300166
+      SNES - Super Street Fighter 2 - Ken_158: 21300316
+      SNES - Super Street Fighter 2 - Ken_8: 21300016
+      SNES - Super Street Fighter 2 - Ken_204: 21300408
+      SNES - Super Street Fighter 2 - Ken_43: 21300086
+      SNES - Super Street Fighter 2 - Ken_165: 21300330
+      SNES - Super Street Fighter 2 - Ken_53: 21300106
+      SNES - Super Street Fighter 2 - Ken_36: 21300072
+      SNES - Super Street Fighter 2 - Ken_162: 21300324
+      SNES - Super Street Fighter 2 - Ken_122: 21300244
+      SNES - Super Street Fighter 2 - Ken_135: 21300270
+      SNES - Super Street Fighter 2 - Ken_80: 21300160
+      SNES - Super Street Fighter 2 - Ken_1: 21300002
+      SNES - Super Street Fighter 2 - Ken_205: 21300410
+      SNES - Super Street Fighter 2 - Ken_148: 21300296
+      SNES - Super Street Fighter 2 - Ken_7: 21300014
+      SNES - Super Street Fighter 2 - Ken_27: 21300054
+      SNES - Super Street Fighter 2 - Ken_26: 21300052
+      SNES - Super Street Fighter 2 - Ken_133: 21300266
+      SNES - Super Street Fighter 2 - Ken_105: 21300210
+      SNES - Super Street Fighter 2 - Ken_111: 21300222
+      SNES - Super Street Fighter 2 - Ken_78: 21300156
+      SNES - Super Street Fighter 2 - Ken_108: 21300216
+      SNES - Super Street Fighter 2 - Ken_30: 21300060
+      SNES - Super Street Fighter 2 - Ken_164: 21300328
+      SNES - Super Street Fighter 2 - Ken_178: 21300356
+      SNES - Super Street Fighter 2 - Ken_16: 21300032
+      SNES - Super Street Fighter 2 - Ken_48: 21300096
+      SNES - Super Street Fighter 2 - Ken_174: 21300348
+      SNES - Super Street Fighter 2 - Ken_2: 21300004
+      SNES - Super Street Fighter 2 - Ken_79: 21300158
+      SNES - Super Street Fighter 2 - Ken_200: 21300400
+      SNES - Super Street Fighter 2 - Ken_47: 21300094
+      SNES - Super Street Fighter 2 - Ken_62: 21300124
+      SNES - Super Street Fighter 2 - Ken_168: 21300336
+      SNES - Super Street Fighter 2 - Ken_54: 21300108
+      SNES - Super Street Fighter 2 - Ken_44: 21300088
+      SNES - Super Street Fighter 2 - Ken_138: 21300276
+      SNES - Super Street Fighter 2 - Ken_65: 21300130
+      SNES - Super Street Fighter 2 - Ken_160: 21300320
+      SNES - Super Street Fighter 2 - Ken_96: 21300192
+      SNES - Super Street Fighter 2 - Ken_41: 21300082
+      SNES - Super Street Fighter 2 - Ken_194: 21300388
+      SNES - Super Street Fighter 2 - Ken_67: 21300134
+      SNES - Super Street Fighter 2 - Ken_45: 21300090
+      SNES - Super Street Fighter 2 - Ken_100: 21300200
+      SNES - Super Street Fighter 2 - Ken_144: 21300288
+      SNES - Super Street Fighter 2 - Ken_180: 21300360
+      SNES - Super Street Fighter 2 - Ken_58: 21300116
+      SNES - Super Street Fighter 2 - Ken_186: 21300372
+      SNES - Super Street Fighter 2 - Ken_154: 21300308
+      SNES - Super Street Fighter 2 - Ken_24: 21300048
+      SNES - Super Street Fighter 2 - Ken_156: 21300312
+      SNES - Super Street Fighter 2 - Ken_188: 21300376
+      SNES - Super Street Fighter 2 - Ken_103: 21300206
+      SNES - Super Street Fighter 2 - Ken_12: 21300024
+      SNES - Super Street Fighter 2 - Ken_69: 21300138
+      SNES - Super Street Fighter 2 - Ken_149: 21300298
+      SNES - Super Street Fighter 2 - Ken_20: 21300040
+      SNES - Super Street Fighter 2 - Ken_189: 21300378
+      SNES - Super Street Fighter 2 - Ken_102: 21300204
+      SNES - Super Street Fighter 2 - Ken_32: 21300064
+      SNES - Super Street Fighter 2 - Ken_92: 21300184
+      SNES - Super Street Fighter 2 - Ken_28: 21300056
+      SNES - Super Street Fighter 2 - Ken_95: 21300190
+      SNES - Super Street Fighter 2 - Ken_101: 21300202
+      SNES - Super Street Fighter 2 - Ken_170: 21300340
+      SNES - Super Street Fighter 2 - Ken_81: 21300162
+      SNES - Super Street Fighter 2 - Ken_177: 21300354
+      SNES - Super Street Fighter 2 - Ken_173: 21300346
+      SNES - Super Street Fighter 2 - Ken_184: 21300368
+      SNES - Super Street Fighter 2 - Ken_40: 21300080
+      SNES - Super Street Fighter 2 - Ken_77: 21300154
+      SNES - Super Street Fighter 2 - Ken_64: 21300128
+      SNES - Super Street Fighter 2 - Ken_120: 21300240
+      SNES - Super Street Fighter 2 - Ken_197: 21300394
+      SNES - Super Street Fighter 2 - Ken_136: 21300272
+      SNES - Super Street Fighter 2 - Ken_182: 21300364
+      SNES - Super Street Fighter 2 - Ken_206: 21300412
+      SNES - Super Street Fighter 2 - Ken_140: 21300280
+      SNES - Super Street Fighter 2 - Ken_11: 21300022
+      SNES - Super Street Fighter 2 - Ken_56: 21300112
+      SNES - Super Street Fighter 2 - Ken_151: 21300302
+      SNES - Super Street Fighter 2 - Ken_199: 21300398
+      SNES - Super Street Fighter 2 - Ken_84: 21300168
+      SNES - Super Street Fighter 2 - Ken_195: 21300390
+      SNES - Super Street Fighter 2 - Ken_134: 21300268
+      SNES - Super Street Fighter 2 - Ken_159: 21300318
+      SNES - Super Street Fighter 2 - Ken_31: 21300062
+      SNES - Super Street Fighter 2 - Ken_66: 21300132
+      SNES - Super Street Fighter 2 - Ken_155: 21300310
+      SNES - Super Street Fighter 2 - Ken_118: 21300236
+      SNES - Super Street Fighter 2 - Ken_19: 21300038
+      SNES - Super Street Fighter 2 - Ken_141: 21300282
+      SNES - Super Street Fighter 2 - Ken_166: 21300332
+      SNES - Super Street Fighter 2 - Ken_14: 21300028
+      SNES - Super Street Fighter 2 - Ken_87: 21300174
+      SNES - Super Street Fighter 2 - Ken_51: 21300102
+      SNES - Super Street Fighter 2 - Ken_60: 21300120
+      SNES - Super Street Fighter 2 - Ken_183: 21300366
+      SNES - Super Street Fighter 2 - Ken_55: 21300110
+      SNES - Super Street Fighter 2 - Ken_137: 21300274
+      SNES - Super Street Fighter 2 - Ken_176: 21300352
+      SNES - Super Street Fighter 2 - Ken_46: 21300092
+      SNES - Super Street Fighter 2 - Ken_9: 21300018
+      SNES - Super Street Fighter 2 - Ken_86: 21300172
+      SNES - Super Street Fighter 2 - Ken_91: 21300182
+      SNES - Super Street Fighter 2 - Ken_127: 21300254
+      SNES - Super Street Fighter 2 - Ken_167: 21300334
+      SNES - Super Street Fighter 2 - Ken_93: 21300186
+      SNES - Super Street Fighter 2 - Ken_147: 21300294
+      SNES - Super Street Fighter 2 - Ken_110: 21300220
+      SNES - Super Street Fighter 2 - Ken_50: 21300100
+      SNES - Super Street Fighter 2 - Ken_152: 21300304
+      SNES - Super Street Fighter 2 - Ken_146: 21300292
+      SNES - Super Street Fighter 2 - Ken_161: 21300322
+      SNES - Super Street Fighter 2 - Ken_116: 21300232
+      SNES - Super Street Fighter 2 - Ken_38: 21300076
+      SNES - Super Street Fighter 2 - Ken_190: 21300380
+      SNES - Super Street Fighter 2 - Ken_22: 21300044
+      SNES - Super Street Fighter 2 - Ken_25: 21300050
+      SNES - Super Street Fighter 2 - Ken_169: 21300338
+      SNES - Super Street Fighter 2 - Ken_181: 21300362
+      SNES - Super Street Fighter 2 - Ken_192: 21300384
+      SNES - Super Street Fighter 2 - Ken_113: 21300226
+      SNES - Super Street Fighter 2 - Ken_97: 21300194
+      SNES - Super Street Fighter 2 - Ken_39: 21300078
+      SNES - Super Street Fighter 2 - Ken_207: 21300414
+      SNES - Super Street Fighter 2 - Ken_126: 21300252
+      SNES - Super Street Fighter 2 - Ken_132: 21300264
+      SNES - Super Street Fighter 2 - Ken_119: 21300238
+      SNES - Super Street Fighter 2 - Ken_121: 21300242
+      SNES - Super Street Fighter 2 - Ken_191: 21300382
+      SNES - Super Street Fighter 2 - Ken_63: 21300126
+      SNES - Super Street Fighter 2 - Ken_171: 21300342
+      SNES - Super Street Fighter 2 - Ken_201: 21300402
+      SNES - Super Street Fighter 2 - Ken_0: 21300000
+      SNES - Super Street Fighter 2 - Ken_112: 21300224
+      SNES - Super Street Fighter 2 - Ken_175: 21300350
+      SNES - Super Street Fighter 2 - Ken_35: 21300070
+      SNES - Super Street Fighter 2 - Ken_13: 21300026
+      SNES - Super Street Fighter 2 - Ken_82: 21300164
+      SNES - Super Street Fighter 2 - Ken_72: 21300144
+      SNES - Super Street Fighter 2 - Ken_34: 21300068
+      SNES - Super Street Fighter 2 - Ken_203: 21300406
+      SNES - Super Street Fighter 2 - Ken_68: 21300136
+      SNES - Super Street Fighter 2 - Ken_33: 21300066
+      SNES - Super Street Fighter 2 - Ken_143: 21300286
+      SNES - Super Street Fighter 2 - Ken_106: 21300212
+      SNES - Super Street Fighter 2 - Ken_128: 21300256
+      SNES - Super Street Fighter 2 - Ken_153: 21300306
+      SNES - Super Street Fighter 2 - Ken_4: 21300008
+      SNES - Super Street Fighter 2 - Ken_202: 21300404
+      SNES - Super Street Fighter 2 - Ken_107: 21300214
+      SNES - Super Street Fighter 2 - Ken_6: 21300012
+      SNES - Super Street Fighter 2 - Ken_117: 21300234
+      SNES - Super Street Fighter 2 - Ken_198: 21300396
+      SNES - Super Street Fighter 2 - Ken_131: 21300262
+      SNES - Super Street Fighter 2 - Ken_90: 21300180
+      SNES - Super Street Fighter 2 - Ken_52: 21300104
+      SNES - Super Street Fighter 2 - Ken_70: 21300140
+      SNES - Super Street Fighter 2 - Ken_57: 21300114
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

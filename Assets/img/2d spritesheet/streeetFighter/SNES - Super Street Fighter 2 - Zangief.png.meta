@@ -1,0 +1,5023 @@
+fileFormatVersion: 2
+guid: d9973c2cde779b94dafd868538bc3726
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SNES - Super Street Fighter 2 - Zangief_0
+  - first:
+      213: 21300002
+    second: SNES - Super Street Fighter 2 - Zangief_1
+  - first:
+      213: 21300004
+    second: SNES - Super Street Fighter 2 - Zangief_2
+  - first:
+      213: 21300006
+    second: SNES - Super Street Fighter 2 - Zangief_3
+  - first:
+      213: 21300008
+    second: SNES - Super Street Fighter 2 - Zangief_4
+  - first:
+      213: 21300010
+    second: SNES - Super Street Fighter 2 - Zangief_5
+  - first:
+      213: 21300012
+    second: SNES - Super Street Fighter 2 - Zangief_6
+  - first:
+      213: 21300014
+    second: SNES - Super Street Fighter 2 - Zangief_7
+  - first:
+      213: 21300016
+    second: SNES - Super Street Fighter 2 - Zangief_8
+  - first:
+      213: 21300018
+    second: SNES - Super Street Fighter 2 - Zangief_9
+  - first:
+      213: 21300020
+    second: SNES - Super Street Fighter 2 - Zangief_10
+  - first:
+      213: 21300022
+    second: SNES - Super Street Fighter 2 - Zangief_11
+  - first:
+      213: 21300024
+    second: SNES - Super Street Fighter 2 - Zangief_12
+  - first:
+      213: 21300026
+    second: SNES - Super Street Fighter 2 - Zangief_13
+  - first:
+      213: 21300028
+    second: SNES - Super Street Fighter 2 - Zangief_14
+  - first:
+      213: 21300030
+    second: SNES - Super Street Fighter 2 - Zangief_15
+  - first:
+      213: 21300032
+    second: SNES - Super Street Fighter 2 - Zangief_16
+  - first:
+      213: 21300034
+    second: SNES - Super Street Fighter 2 - Zangief_17
+  - first:
+      213: 21300036
+    second: SNES - Super Street Fighter 2 - Zangief_18
+  - first:
+      213: 21300038
+    second: SNES - Super Street Fighter 2 - Zangief_19
+  - first:
+      213: 21300040
+    second: SNES - Super Street Fighter 2 - Zangief_20
+  - first:
+      213: 21300042
+    second: SNES - Super Street Fighter 2 - Zangief_21
+  - first:
+      213: 21300044
+    second: SNES - Super Street Fighter 2 - Zangief_22
+  - first:
+      213: 21300046
+    second: SNES - Super Street Fighter 2 - Zangief_23
+  - first:
+      213: 21300048
+    second: SNES - Super Street Fighter 2 - Zangief_24
+  - first:
+      213: 21300050
+    second: SNES - Super Street Fighter 2 - Zangief_25
+  - first:
+      213: 21300052
+    second: SNES - Super Street Fighter 2 - Zangief_26
+  - first:
+      213: 21300054
+    second: SNES - Super Street Fighter 2 - Zangief_27
+  - first:
+      213: 21300056
+    second: SNES - Super Street Fighter 2 - Zangief_28
+  - first:
+      213: 21300058
+    second: SNES - Super Street Fighter 2 - Zangief_29
+  - first:
+      213: 21300060
+    second: SNES - Super Street Fighter 2 - Zangief_30
+  - first:
+      213: 21300062
+    second: SNES - Super Street Fighter 2 - Zangief_31
+  - first:
+      213: 21300064
+    second: SNES - Super Street Fighter 2 - Zangief_32
+  - first:
+      213: 21300066
+    second: SNES - Super Street Fighter 2 - Zangief_33
+  - first:
+      213: 21300068
+    second: SNES - Super Street Fighter 2 - Zangief_34
+  - first:
+      213: 21300070
+    second: SNES - Super Street Fighter 2 - Zangief_35
+  - first:
+      213: 21300072
+    second: SNES - Super Street Fighter 2 - Zangief_36
+  - first:
+      213: 21300074
+    second: SNES - Super Street Fighter 2 - Zangief_37
+  - first:
+      213: 21300076
+    second: SNES - Super Street Fighter 2 - Zangief_38
+  - first:
+      213: 21300078
+    second: SNES - Super Street Fighter 2 - Zangief_39
+  - first:
+      213: 21300080
+    second: SNES - Super Street Fighter 2 - Zangief_40
+  - first:
+      213: 21300082
+    second: SNES - Super Street Fighter 2 - Zangief_41
+  - first:
+      213: 21300084
+    second: SNES - Super Street Fighter 2 - Zangief_42
+  - first:
+      213: 21300086
+    second: SNES - Super Street Fighter 2 - Zangief_43
+  - first:
+      213: 21300088
+    second: SNES - Super Street Fighter 2 - Zangief_44
+  - first:
+      213: 21300090
+    second: SNES - Super Street Fighter 2 - Zangief_45
+  - first:
+      213: 21300092
+    second: SNES - Super Street Fighter 2 - Zangief_46
+  - first:
+      213: 21300094
+    second: SNES - Super Street Fighter 2 - Zangief_47
+  - first:
+      213: 21300096
+    second: SNES - Super Street Fighter 2 - Zangief_48
+  - first:
+      213: 21300098
+    second: SNES - Super Street Fighter 2 - Zangief_49
+  - first:
+      213: 21300100
+    second: SNES - Super Street Fighter 2 - Zangief_50
+  - first:
+      213: 21300102
+    second: SNES - Super Street Fighter 2 - Zangief_51
+  - first:
+      213: 21300104
+    second: SNES - Super Street Fighter 2 - Zangief_52
+  - first:
+      213: 21300106
+    second: SNES - Super Street Fighter 2 - Zangief_53
+  - first:
+      213: 21300108
+    second: SNES - Super Street Fighter 2 - Zangief_54
+  - first:
+      213: 21300110
+    second: SNES - Super Street Fighter 2 - Zangief_55
+  - first:
+      213: 21300112
+    second: SNES - Super Street Fighter 2 - Zangief_56
+  - first:
+      213: 21300114
+    second: SNES - Super Street Fighter 2 - Zangief_57
+  - first:
+      213: 21300116
+    second: SNES - Super Street Fighter 2 - Zangief_58
+  - first:
+      213: 21300118
+    second: SNES - Super Street Fighter 2 - Zangief_59
+  - first:
+      213: 21300120
+    second: SNES - Super Street Fighter 2 - Zangief_60
+  - first:
+      213: 21300122
+    second: SNES - Super Street Fighter 2 - Zangief_61
+  - first:
+      213: 21300124
+    second: SNES - Super Street Fighter 2 - Zangief_62
+  - first:
+      213: 21300126
+    second: SNES - Super Street Fighter 2 - Zangief_63
+  - first:
+      213: 21300128
+    second: SNES - Super Street Fighter 2 - Zangief_64
+  - first:
+      213: 21300130
+    second: SNES - Super Street Fighter 2 - Zangief_65
+  - first:
+      213: 21300132
+    second: SNES - Super Street Fighter 2 - Zangief_66
+  - first:
+      213: 21300134
+    second: SNES - Super Street Fighter 2 - Zangief_67
+  - first:
+      213: 21300136
+    second: SNES - Super Street Fighter 2 - Zangief_68
+  - first:
+      213: 21300138
+    second: SNES - Super Street Fighter 2 - Zangief_69
+  - first:
+      213: 21300140
+    second: SNES - Super Street Fighter 2 - Zangief_70
+  - first:
+      213: 21300142
+    second: SNES - Super Street Fighter 2 - Zangief_71
+  - first:
+      213: 21300144
+    second: SNES - Super Street Fighter 2 - Zangief_72
+  - first:
+      213: 21300146
+    second: SNES - Super Street Fighter 2 - Zangief_73
+  - first:
+      213: 21300148
+    second: SNES - Super Street Fighter 2 - Zangief_74
+  - first:
+      213: 21300150
+    second: SNES - Super Street Fighter 2 - Zangief_75
+  - first:
+      213: 21300152
+    second: SNES - Super Street Fighter 2 - Zangief_76
+  - first:
+      213: 21300154
+    second: SNES - Super Street Fighter 2 - Zangief_77
+  - first:
+      213: 21300156
+    second: SNES - Super Street Fighter 2 - Zangief_78
+  - first:
+      213: 21300158
+    second: SNES - Super Street Fighter 2 - Zangief_79
+  - first:
+      213: 21300160
+    second: SNES - Super Street Fighter 2 - Zangief_80
+  - first:
+      213: 21300162
+    second: SNES - Super Street Fighter 2 - Zangief_81
+  - first:
+      213: 21300164
+    second: SNES - Super Street Fighter 2 - Zangief_82
+  - first:
+      213: 21300166
+    second: SNES - Super Street Fighter 2 - Zangief_83
+  - first:
+      213: 21300168
+    second: SNES - Super Street Fighter 2 - Zangief_84
+  - first:
+      213: 21300170
+    second: SNES - Super Street Fighter 2 - Zangief_85
+  - first:
+      213: 21300172
+    second: SNES - Super Street Fighter 2 - Zangief_86
+  - first:
+      213: 21300174
+    second: SNES - Super Street Fighter 2 - Zangief_87
+  - first:
+      213: 21300176
+    second: SNES - Super Street Fighter 2 - Zangief_88
+  - first:
+      213: 21300178
+    second: SNES - Super Street Fighter 2 - Zangief_89
+  - first:
+      213: 21300180
+    second: SNES - Super Street Fighter 2 - Zangief_90
+  - first:
+      213: 21300182
+    second: SNES - Super Street Fighter 2 - Zangief_91
+  - first:
+      213: 21300184
+    second: SNES - Super Street Fighter 2 - Zangief_92
+  - first:
+      213: 21300186
+    second: SNES - Super Street Fighter 2 - Zangief_93
+  - first:
+      213: 21300188
+    second: SNES - Super Street Fighter 2 - Zangief_94
+  - first:
+      213: 21300190
+    second: SNES - Super Street Fighter 2 - Zangief_95
+  - first:
+      213: 21300192
+    second: SNES - Super Street Fighter 2 - Zangief_96
+  - first:
+      213: 21300194
+    second: SNES - Super Street Fighter 2 - Zangief_97
+  - first:
+      213: 21300196
+    second: SNES - Super Street Fighter 2 - Zangief_98
+  - first:
+      213: 21300198
+    second: SNES - Super Street Fighter 2 - Zangief_99
+  - first:
+      213: 21300200
+    second: SNES - Super Street Fighter 2 - Zangief_100
+  - first:
+      213: 21300202
+    second: SNES - Super Street Fighter 2 - Zangief_101
+  - first:
+      213: 21300204
+    second: SNES - Super Street Fighter 2 - Zangief_102
+  - first:
+      213: 21300206
+    second: SNES - Super Street Fighter 2 - Zangief_103
+  - first:
+      213: 21300208
+    second: SNES - Super Street Fighter 2 - Zangief_104
+  - first:
+      213: 21300210
+    second: SNES - Super Street Fighter 2 - Zangief_105
+  - first:
+      213: 21300212
+    second: SNES - Super Street Fighter 2 - Zangief_106
+  - first:
+      213: 21300214
+    second: SNES - Super Street Fighter 2 - Zangief_107
+  - first:
+      213: 21300216
+    second: SNES - Super Street Fighter 2 - Zangief_108
+  - first:
+      213: 21300218
+    second: SNES - Super Street Fighter 2 - Zangief_109
+  - first:
+      213: 21300220
+    second: SNES - Super Street Fighter 2 - Zangief_110
+  - first:
+      213: 21300222
+    second: SNES - Super Street Fighter 2 - Zangief_111
+  - first:
+      213: 21300224
+    second: SNES - Super Street Fighter 2 - Zangief_112
+  - first:
+      213: 21300226
+    second: SNES - Super Street Fighter 2 - Zangief_113
+  - first:
+      213: 21300228
+    second: SNES - Super Street Fighter 2 - Zangief_114
+  - first:
+      213: 21300230
+    second: SNES - Super Street Fighter 2 - Zangief_115
+  - first:
+      213: 21300232
+    second: SNES - Super Street Fighter 2 - Zangief_116
+  - first:
+      213: 21300234
+    second: SNES - Super Street Fighter 2 - Zangief_117
+  - first:
+      213: 21300236
+    second: SNES - Super Street Fighter 2 - Zangief_118
+  - first:
+      213: 21300238
+    second: SNES - Super Street Fighter 2 - Zangief_119
+  - first:
+      213: 21300240
+    second: SNES - Super Street Fighter 2 - Zangief_120
+  - first:
+      213: 21300242
+    second: SNES - Super Street Fighter 2 - Zangief_121
+  - first:
+      213: 21300244
+    second: SNES - Super Street Fighter 2 - Zangief_122
+  - first:
+      213: 21300246
+    second: SNES - Super Street Fighter 2 - Zangief_123
+  - first:
+      213: 21300248
+    second: SNES - Super Street Fighter 2 - Zangief_124
+  - first:
+      213: 21300250
+    second: SNES - Super Street Fighter 2 - Zangief_125
+  - first:
+      213: 21300252
+    second: SNES - Super Street Fighter 2 - Zangief_126
+  - first:
+      213: 21300254
+    second: SNES - Super Street Fighter 2 - Zangief_127
+  - first:
+      213: 21300256
+    second: SNES - Super Street Fighter 2 - Zangief_128
+  - first:
+      213: 21300258
+    second: SNES - Super Street Fighter 2 - Zangief_129
+  - first:
+      213: 21300260
+    second: SNES - Super Street Fighter 2 - Zangief_130
+  - first:
+      213: 21300262
+    second: SNES - Super Street Fighter 2 - Zangief_131
+  - first:
+      213: 21300264
+    second: SNES - Super Street Fighter 2 - Zangief_132
+  - first:
+      213: 21300266
+    second: SNES - Super Street Fighter 2 - Zangief_133
+  - first:
+      213: 21300268
+    second: SNES - Super Street Fighter 2 - Zangief_134
+  - first:
+      213: 21300270
+    second: SNES - Super Street Fighter 2 - Zangief_135
+  - first:
+      213: 21300272
+    second: SNES - Super Street Fighter 2 - Zangief_136
+  - first:
+      213: 21300274
+    second: SNES - Super Street Fighter 2 - Zangief_137
+  - first:
+      213: 21300276
+    second: SNES - Super Street Fighter 2 - Zangief_138
+  - first:
+      213: 21300278
+    second: SNES - Super Street Fighter 2 - Zangief_139
+  - first:
+      213: 21300280
+    second: SNES - Super Street Fighter 2 - Zangief_140
+  - first:
+      213: 21300282
+    second: SNES - Super Street Fighter 2 - Zangief_141
+  - first:
+      213: 21300284
+    second: SNES - Super Street Fighter 2 - Zangief_142
+  - first:
+      213: 21300286
+    second: SNES - Super Street Fighter 2 - Zangief_143
+  - first:
+      213: 21300288
+    second: SNES - Super Street Fighter 2 - Zangief_144
+  - first:
+      213: 21300290
+    second: SNES - Super Street Fighter 2 - Zangief_145
+  - first:
+      213: 21300292
+    second: SNES - Super Street Fighter 2 - Zangief_146
+  - first:
+      213: 21300294
+    second: SNES - Super Street Fighter 2 - Zangief_147
+  - first:
+      213: 21300296
+    second: SNES - Super Street Fighter 2 - Zangief_148
+  - first:
+      213: 21300298
+    second: SNES - Super Street Fighter 2 - Zangief_149
+  - first:
+      213: 21300300
+    second: SNES - Super Street Fighter 2 - Zangief_150
+  - first:
+      213: 21300302
+    second: SNES - Super Street Fighter 2 - Zangief_151
+  - first:
+      213: 21300304
+    second: SNES - Super Street Fighter 2 - Zangief_152
+  - first:
+      213: 21300306
+    second: SNES - Super Street Fighter 2 - Zangief_153
+  - first:
+      213: 21300308
+    second: SNES - Super Street Fighter 2 - Zangief_154
+  - first:
+      213: 21300310
+    second: SNES - Super Street Fighter 2 - Zangief_155
+  - first:
+      213: 21300312
+    second: SNES - Super Street Fighter 2 - Zangief_156
+  - first:
+      213: 21300314
+    second: SNES - Super Street Fighter 2 - Zangief_157
+  - first:
+      213: 21300316
+    second: SNES - Super Street Fighter 2 - Zangief_158
+  - first:
+      213: 21300318
+    second: SNES - Super Street Fighter 2 - Zangief_159
+  - first:
+      213: 21300320
+    second: SNES - Super Street Fighter 2 - Zangief_160
+  - first:
+      213: 21300322
+    second: SNES - Super Street Fighter 2 - Zangief_161
+  - first:
+      213: 21300324
+    second: SNES - Super Street Fighter 2 - Zangief_162
+  - first:
+      213: 21300326
+    second: SNES - Super Street Fighter 2 - Zangief_163
+  - first:
+      213: 21300328
+    second: SNES - Super Street Fighter 2 - Zangief_164
+  - first:
+      213: 21300330
+    second: SNES - Super Street Fighter 2 - Zangief_165
+  - first:
+      213: 21300332
+    second: SNES - Super Street Fighter 2 - Zangief_166
+  - first:
+      213: 21300334
+    second: SNES - Super Street Fighter 2 - Zangief_167
+  - first:
+      213: 21300336
+    second: SNES - Super Street Fighter 2 - Zangief_168
+  - first:
+      213: 21300338
+    second: SNES - Super Street Fighter 2 - Zangief_169
+  - first:
+      213: 21300340
+    second: SNES - Super Street Fighter 2 - Zangief_170
+  - first:
+      213: 21300342
+    second: SNES - Super Street Fighter 2 - Zangief_171
+  - first:
+      213: 21300344
+    second: SNES - Super Street Fighter 2 - Zangief_172
+  - first:
+      213: 21300346
+    second: SNES - Super Street Fighter 2 - Zangief_173
+  - first:
+      213: 21300348
+    second: SNES - Super Street Fighter 2 - Zangief_174
+  - first:
+      213: 21300350
+    second: SNES - Super Street Fighter 2 - Zangief_175
+  - first:
+      213: 21300352
+    second: SNES - Super Street Fighter 2 - Zangief_176
+  - first:
+      213: 21300354
+    second: SNES - Super Street Fighter 2 - Zangief_177
+  - first:
+      213: 21300356
+    second: SNES - Super Street Fighter 2 - Zangief_178
+  - first:
+      213: 21300358
+    second: SNES - Super Street Fighter 2 - Zangief_179
+  - first:
+      213: 21300360
+    second: SNES - Super Street Fighter 2 - Zangief_180
+  - first:
+      213: 21300362
+    second: SNES - Super Street Fighter 2 - Zangief_181
+  - first:
+      213: 21300364
+    second: SNES - Super Street Fighter 2 - Zangief_182
+  - first:
+      213: 21300366
+    second: SNES - Super Street Fighter 2 - Zangief_183
+  - first:
+      213: 21300368
+    second: SNES - Super Street Fighter 2 - Zangief_184
+  - first:
+      213: 21300370
+    second: SNES - Super Street Fighter 2 - Zangief_185
+  - first:
+      213: 21300372
+    second: SNES - Super Street Fighter 2 - Zangief_186
+  - first:
+      213: 21300374
+    second: SNES - Super Street Fighter 2 - Zangief_187
+  - first:
+      213: 21300376
+    second: SNES - Super Street Fighter 2 - Zangief_188
+  - first:
+      213: 21300378
+    second: SNES - Super Street Fighter 2 - Zangief_189
+  - first:
+      213: 21300380
+    second: SNES - Super Street Fighter 2 - Zangief_190
+  - first:
+      213: 21300382
+    second: SNES - Super Street Fighter 2 - Zangief_191
+  - first:
+      213: 21300384
+    second: SNES - Super Street Fighter 2 - Zangief_192
+  - first:
+      213: 21300386
+    second: SNES - Super Street Fighter 2 - Zangief_193
+  - first:
+      213: 21300388
+    second: SNES - Super Street Fighter 2 - Zangief_194
+  - first:
+      213: 21300390
+    second: SNES - Super Street Fighter 2 - Zangief_195
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1443
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1443
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1443
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1443
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1443
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1443
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1443
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1443
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1443
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1441
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1457
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1441
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1443
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_13
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1443
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1443
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1317
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1317
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1317
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1317
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1317
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1317
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1317
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1317
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_23
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1317
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1317
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_25
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1317
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1317
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1317
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1317
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1191
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1191
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1191
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1191
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1191
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1191
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1191
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1191
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_37
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1191
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_38
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1191
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_39
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1191
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_40
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1191
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_41
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1205
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_42
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1191
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_43
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1224
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_44
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1191
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1191
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_46
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1221
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_47
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1191
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_48
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1191
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_49
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1191
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_50
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1191
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1065
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1065
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1065
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1065
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1065
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1065
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_57
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1065
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1080
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_59
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1080
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_60
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1063
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_61
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1065
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_62
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1090
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_63
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1065
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_64
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1065
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_65
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1065
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_66
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1073
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_67
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1086
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_68
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1073
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 937
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 937
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 937
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 937
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 937
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 937
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 937
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_76
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 937
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_77
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 937
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_78
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 937
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_79
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 937
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_80
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 937
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_81
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 949
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_82
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 956
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_83
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 943
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_84
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 949
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 815
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 815
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 815
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 815
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_89
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 815
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_90
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 815
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 815
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_92
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 849
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_93
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 815
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_94
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 815
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_95
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 815
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_96
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 815
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_97
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 815
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_98
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 815
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_99
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 693
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_100
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 693
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_101
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 693
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_102
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 711
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_103
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 693
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 693
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_105
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 693
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_106
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 693
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_107
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 693
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_108
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 693
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_109
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 693
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_110
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 693
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_111
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 693
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_112
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 711
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_113
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 693
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_114
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 557
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 557
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 557
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_117
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 557
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_118
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 557
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_119
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 557
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_120
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 560
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_121
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 569
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_122
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 561
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_123
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 558
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_124
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 557
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_125
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 555
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_126
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 557
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_127
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 557
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_128
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 557
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_129
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 557
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_130
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 557
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 421
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_132
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 421
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_133
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 421
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 421
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_135
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 421
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_136
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 421
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_137
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 421
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_138
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 421
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_139
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 421
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_140
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 429
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_141
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 421
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_142
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 446
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_143
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 456
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_144
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 421
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_145
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 432
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_146
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 421
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_147
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 422
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_148
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 421
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_149
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 421
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_150
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 421
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_151
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 421
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_152
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 289
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_153
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 289
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_154
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 289
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_156
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 289
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_157
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 289
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_158
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 289
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_159
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 289
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_160
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 289
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_161
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 288
+        width: 76
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_162
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 302
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_163
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 289
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_164
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 289
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_165
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 289
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_166
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 289
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_167
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 289
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_168
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 290
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_169
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 290
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_170
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 290
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_171
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_172
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 141
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_173
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 141
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_174
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 141
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_175
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 141
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_176
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 141
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_177
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 141
+        width: 58
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_178
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 141
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_179
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 141
+        width: 58
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_180
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 141
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_181
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 141
+        width: 58
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_182
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 141
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_183
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 141
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_184
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 141
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_185
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_186
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 11
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_187
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 11
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_188
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 41
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_189
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_190
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 6
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_191
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 6
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_192
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_193
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 6
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_194
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 6
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter 2 - Zangief_195
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 6
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Street Fighter 2 - Zangief_169: 21300338
+      SNES - Super Street Fighter 2 - Zangief_32: 21300064
+      SNES - Super Street Fighter 2 - Zangief_179: 21300358
+      SNES - Super Street Fighter 2 - Zangief_171: 21300342
+      SNES - Super Street Fighter 2 - Zangief_31: 21300062
+      SNES - Super Street Fighter 2 - Zangief_184: 21300368
+      SNES - Super Street Fighter 2 - Zangief_26: 21300052
+      SNES - Super Street Fighter 2 - Zangief_21: 21300042
+      SNES - Super Street Fighter 2 - Zangief_116: 21300232
+      SNES - Super Street Fighter 2 - Zangief_67: 21300134
+      SNES - Super Street Fighter 2 - Zangief_157: 21300314
+      SNES - Super Street Fighter 2 - Zangief_165: 21300330
+      SNES - Super Street Fighter 2 - Zangief_62: 21300124
+      SNES - Super Street Fighter 2 - Zangief_72: 21300144
+      SNES - Super Street Fighter 2 - Zangief_95: 21300190
+      SNES - Super Street Fighter 2 - Zangief_63: 21300126
+      SNES - Super Street Fighter 2 - Zangief_29: 21300058
+      SNES - Super Street Fighter 2 - Zangief_58: 21300116
+      SNES - Super Street Fighter 2 - Zangief_42: 21300084
+      SNES - Super Street Fighter 2 - Zangief_61: 21300122
+      SNES - Super Street Fighter 2 - Zangief_131: 21300262
+      SNES - Super Street Fighter 2 - Zangief_64: 21300128
+      SNES - Super Street Fighter 2 - Zangief_130: 21300260
+      SNES - Super Street Fighter 2 - Zangief_190: 21300380
+      SNES - Super Street Fighter 2 - Zangief_144: 21300288
+      SNES - Super Street Fighter 2 - Zangief_92: 21300184
+      SNES - Super Street Fighter 2 - Zangief_153: 21300306
+      SNES - Super Street Fighter 2 - Zangief_43: 21300086
+      SNES - Super Street Fighter 2 - Zangief_124: 21300248
+      SNES - Super Street Fighter 2 - Zangief_53: 21300106
+      SNES - Super Street Fighter 2 - Zangief_141: 21300282
+      SNES - Super Street Fighter 2 - Zangief_195: 21300390
+      SNES - Super Street Fighter 2 - Zangief_161: 21300322
+      SNES - Super Street Fighter 2 - Zangief_118: 21300236
+      SNES - Super Street Fighter 2 - Zangief_194: 21300388
+      SNES - Super Street Fighter 2 - Zangief_164: 21300328
+      SNES - Super Street Fighter 2 - Zangief_149: 21300298
+      SNES - Super Street Fighter 2 - Zangief_68: 21300136
+      SNES - Super Street Fighter 2 - Zangief_151: 21300302
+      SNES - Super Street Fighter 2 - Zangief_44: 21300088
+      SNES - Super Street Fighter 2 - Zangief_136: 21300272
+      SNES - Super Street Fighter 2 - Zangief_126: 21300252
+      SNES - Super Street Fighter 2 - Zangief_34: 21300068
+      SNES - Super Street Fighter 2 - Zangief_155: 21300310
+      SNES - Super Street Fighter 2 - Zangief_107: 21300214
+      SNES - Super Street Fighter 2 - Zangief_76: 21300152
+      SNES - Super Street Fighter 2 - Zangief_0: 21300000
+      SNES - Super Street Fighter 2 - Zangief_19: 21300038
+      SNES - Super Street Fighter 2 - Zangief_177: 21300354
+      SNES - Super Street Fighter 2 - Zangief_142: 21300284
+      SNES - Super Street Fighter 2 - Zangief_94: 21300188
+      SNES - Super Street Fighter 2 - Zangief_48: 21300096
+      SNES - Super Street Fighter 2 - Zangief_181: 21300362
+      SNES - Super Street Fighter 2 - Zangief_97: 21300194
+      SNES - Super Street Fighter 2 - Zangief_123: 21300246
+      SNES - Super Street Fighter 2 - Zangief_99: 21300198
+      SNES - Super Street Fighter 2 - Zangief_86: 21300172
+      SNES - Super Street Fighter 2 - Zangief_3: 21300006
+      SNES - Super Street Fighter 2 - Zangief_108: 21300216
+      SNES - Super Street Fighter 2 - Zangief_6: 21300012
+      SNES - Super Street Fighter 2 - Zangief_88: 21300176
+      SNES - Super Street Fighter 2 - Zangief_56: 21300112
+      SNES - Super Street Fighter 2 - Zangief_147: 21300294
+      SNES - Super Street Fighter 2 - Zangief_96: 21300192
+      SNES - Super Street Fighter 2 - Zangief_170: 21300340
+      SNES - Super Street Fighter 2 - Zangief_128: 21300256
+      SNES - Super Street Fighter 2 - Zangief_17: 21300034
+      SNES - Super Street Fighter 2 - Zangief_167: 21300334
+      SNES - Super Street Fighter 2 - Zangief_35: 21300070
+      SNES - Super Street Fighter 2 - Zangief_127: 21300254
+      SNES - Super Street Fighter 2 - Zangief_78: 21300156
+      SNES - Super Street Fighter 2 - Zangief_120: 21300240
+      SNES - Super Street Fighter 2 - Zangief_101: 21300202
+      SNES - Super Street Fighter 2 - Zangief_109: 21300218
+      SNES - Super Street Fighter 2 - Zangief_66: 21300132
+      SNES - Super Street Fighter 2 - Zangief_105: 21300210
+      SNES - Super Street Fighter 2 - Zangief_129: 21300258
+      SNES - Super Street Fighter 2 - Zangief_174: 21300348
+      SNES - Super Street Fighter 2 - Zangief_102: 21300204
+      SNES - Super Street Fighter 2 - Zangief_110: 21300220
+      SNES - Super Street Fighter 2 - Zangief_166: 21300332
+      SNES - Super Street Fighter 2 - Zangief_113: 21300226
+      SNES - Super Street Fighter 2 - Zangief_182: 21300364
+      SNES - Super Street Fighter 2 - Zangief_191: 21300382
+      SNES - Super Street Fighter 2 - Zangief_119: 21300238
+      SNES - Super Street Fighter 2 - Zangief_125: 21300250
+      SNES - Super Street Fighter 2 - Zangief_85: 21300170
+      SNES - Super Street Fighter 2 - Zangief_188: 21300376
+      SNES - Super Street Fighter 2 - Zangief_178: 21300356
+      SNES - Super Street Fighter 2 - Zangief_75: 21300150
+      SNES - Super Street Fighter 2 - Zangief_51: 21300102
+      SNES - Super Street Fighter 2 - Zangief_143: 21300286
+      SNES - Super Street Fighter 2 - Zangief_134: 21300268
+      SNES - Super Street Fighter 2 - Zangief_139: 21300278
+      SNES - Super Street Fighter 2 - Zangief_27: 21300054
+      SNES - Super Street Fighter 2 - Zangief_30: 21300060
+      SNES - Super Street Fighter 2 - Zangief_20: 21300040
+      SNES - Super Street Fighter 2 - Zangief_189: 21300378
+      SNES - Super Street Fighter 2 - Zangief_50: 21300100
+      SNES - Super Street Fighter 2 - Zangief_22: 21300044
+      SNES - Super Street Fighter 2 - Zangief_137: 21300274
+      SNES - Super Street Fighter 2 - Zangief_163: 21300326
+      SNES - Super Street Fighter 2 - Zangief_5: 21300010
+      SNES - Super Street Fighter 2 - Zangief_103: 21300206
+      SNES - Super Street Fighter 2 - Zangief_2: 21300004
+      SNES - Super Street Fighter 2 - Zangief_28: 21300056
+      SNES - Super Street Fighter 2 - Zangief_47: 21300094
+      SNES - Super Street Fighter 2 - Zangief_133: 21300266
+      SNES - Super Street Fighter 2 - Zangief_57: 21300114
+      SNES - Super Street Fighter 2 - Zangief_15: 21300030
+      SNES - Super Street Fighter 2 - Zangief_16: 21300032
+      SNES - Super Street Fighter 2 - Zangief_106: 21300212
+      SNES - Super Street Fighter 2 - Zangief_173: 21300346
+      SNES - Super Street Fighter 2 - Zangief_112: 21300224
+      SNES - Super Street Fighter 2 - Zangief_36: 21300072
+      SNES - Super Street Fighter 2 - Zangief_180: 21300360
+      SNES - Super Street Fighter 2 - Zangief_104: 21300208
+      SNES - Super Street Fighter 2 - Zangief_140: 21300280
+      SNES - Super Street Fighter 2 - Zangief_156: 21300312
+      SNES - Super Street Fighter 2 - Zangief_81: 21300162
+      SNES - Super Street Fighter 2 - Zangief_148: 21300296
+      SNES - Super Street Fighter 2 - Zangief_39: 21300078
+      SNES - Super Street Fighter 2 - Zangief_10: 21300020
+      SNES - Super Street Fighter 2 - Zangief_45: 21300090
+      SNES - Super Street Fighter 2 - Zangief_145: 21300290
+      SNES - Super Street Fighter 2 - Zangief_90: 21300180
+      SNES - Super Street Fighter 2 - Zangief_74: 21300148
+      SNES - Super Street Fighter 2 - Zangief_37: 21300074
+      SNES - Super Street Fighter 2 - Zangief_54: 21300108
+      SNES - Super Street Fighter 2 - Zangief_122: 21300244
+      SNES - Super Street Fighter 2 - Zangief_168: 21300336
+      SNES - Super Street Fighter 2 - Zangief_12: 21300024
+      SNES - Super Street Fighter 2 - Zangief_73: 21300146
+      SNES - Super Street Fighter 2 - Zangief_175: 21300350
+      SNES - Super Street Fighter 2 - Zangief_162: 21300324
+      SNES - Super Street Fighter 2 - Zangief_93: 21300186
+      SNES - Super Street Fighter 2 - Zangief_138: 21300276
+      SNES - Super Street Fighter 2 - Zangief_84: 21300168
+      SNES - Super Street Fighter 2 - Zangief_79: 21300158
+      SNES - Super Street Fighter 2 - Zangief_82: 21300164
+      SNES - Super Street Fighter 2 - Zangief_193: 21300386
+      SNES - Super Street Fighter 2 - Zangief_40: 21300080
+      SNES - Super Street Fighter 2 - Zangief_52: 21300104
+      SNES - Super Street Fighter 2 - Zangief_49: 21300098
+      SNES - Super Street Fighter 2 - Zangief_150: 21300300
+      SNES - Super Street Fighter 2 - Zangief_159: 21300318
+      SNES - Super Street Fighter 2 - Zangief_23: 21300046
+      SNES - Super Street Fighter 2 - Zangief_24: 21300048
+      SNES - Super Street Fighter 2 - Zangief_55: 21300110
+      SNES - Super Street Fighter 2 - Zangief_158: 21300316
+      SNES - Super Street Fighter 2 - Zangief_80: 21300160
+      SNES - Super Street Fighter 2 - Zangief_154: 21300308
+      SNES - Super Street Fighter 2 - Zangief_14: 21300028
+      SNES - Super Street Fighter 2 - Zangief_1: 21300002
+      SNES - Super Street Fighter 2 - Zangief_100: 21300200
+      SNES - Super Street Fighter 2 - Zangief_60: 21300120
+      SNES - Super Street Fighter 2 - Zangief_25: 21300050
+      SNES - Super Street Fighter 2 - Zangief_160: 21300320
+      SNES - Super Street Fighter 2 - Zangief_38: 21300076
+      SNES - Super Street Fighter 2 - Zangief_135: 21300270
+      SNES - Super Street Fighter 2 - Zangief_172: 21300344
+      SNES - Super Street Fighter 2 - Zangief_13: 21300026
+      SNES - Super Street Fighter 2 - Zangief_176: 21300352
+      SNES - Super Street Fighter 2 - Zangief_4: 21300008
+      SNES - Super Street Fighter 2 - Zangief_87: 21300174
+      SNES - Super Street Fighter 2 - Zangief_8: 21300016
+      SNES - Super Street Fighter 2 - Zangief_71: 21300142
+      SNES - Super Street Fighter 2 - Zangief_18: 21300036
+      SNES - Super Street Fighter 2 - Zangief_117: 21300234
+      SNES - Super Street Fighter 2 - Zangief_121: 21300242
+      SNES - Super Street Fighter 2 - Zangief_9: 21300018
+      SNES - Super Street Fighter 2 - Zangief_111: 21300222
+      SNES - Super Street Fighter 2 - Zangief_146: 21300292
+      SNES - Super Street Fighter 2 - Zangief_192: 21300384
+      SNES - Super Street Fighter 2 - Zangief_115: 21300230
+      SNES - Super Street Fighter 2 - Zangief_65: 21300130
+      SNES - Super Street Fighter 2 - Zangief_77: 21300154
+      SNES - Super Street Fighter 2 - Zangief_98: 21300196
+      SNES - Super Street Fighter 2 - Zangief_41: 21300082
+      SNES - Super Street Fighter 2 - Zangief_59: 21300118
+      SNES - Super Street Fighter 2 - Zangief_33: 21300066
+      SNES - Super Street Fighter 2 - Zangief_89: 21300178
+      SNES - Super Street Fighter 2 - Zangief_46: 21300092
+      SNES - Super Street Fighter 2 - Zangief_132: 21300264
+      SNES - Super Street Fighter 2 - Zangief_185: 21300370
+      SNES - Super Street Fighter 2 - Zangief_186: 21300372
+      SNES - Super Street Fighter 2 - Zangief_70: 21300140
+      SNES - Super Street Fighter 2 - Zangief_69: 21300138
+      SNES - Super Street Fighter 2 - Zangief_91: 21300182
+      SNES - Super Street Fighter 2 - Zangief_183: 21300366
+      SNES - Super Street Fighter 2 - Zangief_187: 21300374
+      SNES - Super Street Fighter 2 - Zangief_11: 21300022
+      SNES - Super Street Fighter 2 - Zangief_7: 21300014
+      SNES - Super Street Fighter 2 - Zangief_152: 21300304
+      SNES - Super Street Fighter 2 - Zangief_83: 21300166
+      SNES - Super Street Fighter 2 - Zangief_114: 21300228
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
