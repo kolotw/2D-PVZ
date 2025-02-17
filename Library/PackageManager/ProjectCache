@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/00KOLO.TW/00works/00_FGU/Github/2D_PvZ_Record/Packages/manifest.json
+    m_FilePath: D:/00KOLO.TW/00works/00_FGU/Github/2D-PVZ/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638753529564114399
     m_Hash: 576669973
   m_LockFileStatus:
-    m_FilePath: D:/00KOLO.TW/00works/00_FGU/Github/2D_PvZ_Record/Packages/packages-lock.json
+    m_FilePath: D:/00KOLO.TW/00works/00_FGU/Github/2D-PVZ/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/00KOLO.TW/00works/00_FGU/Github/2D_PvZ_Record/Packages
+m_ProjectPath: D:/00KOLO.TW/00works/00_FGU/Github/2D-PVZ/Packages
 m_EditorVersion: 6000.0.37f1 (090b7797214c)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.6
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.6
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.ai.navigation@c74b2724ed42
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.ai.navigation@c74b2724ed42
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -144,7 +144,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.6.0
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.collab-proxy@001b54a8988a
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.collab-proxy@001b54a8988a
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -334,7 +334,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.34
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.ide.rider@ecbf706690e5
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.ide.rider@ecbf706690e5
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -450,7 +450,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -556,7 +556,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.multiplayer.center@f502d8ac613f
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.multiplayer.center@f502d8ac613f
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -646,7 +646,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.4.6
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.test-framework@5ac417e07314
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.test-framework@5ac417e07314
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -799,7 +799,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.8
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.timeline@fa3a0bab2b90
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.timeline@fa3a0bab2b90
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -982,7 +982,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.ugui@603b5c2e4e5a
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.ugui@603b5c2e4e5a
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1074,7 +1074,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.5
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.visualscripting@1b53f46e931b
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.visualscripting@1b53f46e931b
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -3610,7 +3610,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
-  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D_PvZ_Record\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
+  resolvedPath: D:\00KOLO.TW\00works\00_FGU\Github\2D-PVZ\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
